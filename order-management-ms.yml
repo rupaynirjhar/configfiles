@@ -2,9 +2,9 @@ spring:
   session:
     store-type: redis
   redis:
-    host: localhost
+    host: 10.59.200.5
     port: 6379
-    password: 
+    password: k0QxuGL80NszazgVFdjzQk/1iio= 
 security:
   user:
     name: user
